@@ -1,25 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from "react-router-dom";
+import { Navbar } from "./components";
+import { useState } from "react";
+import { CartContext } from "./CartContext.js";
+
+import {Menu, Order, About} from "./pages";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const [cart, setCart] = useState([]);
+
+	const pagesInfo = [
+		{
+			path: "/",
+			name: "MENU",
+			component: <Menu />
+		},
+		{
+			path: "/order",
+			name: "ORDER",
+			component: <Order />
+		},
+		{
+			path: "/about",
+			name: "ABOUT",
+			component: <About />
+		}
+	];
+
+	return (
+		<CartContext.Provider value={ {cart, setCart} }>
+			<Navbar pagesInfo={pagesInfo} />
+			<Routes>
+				{pagesInfo.map(pageInfo => 
+					<Route key={pageInfo.name} path={pageInfo.path} element={pageInfo.component} />
+				)}
+			</Routes>
+		</CartContext.Provider>
+	);
 }
 
 export default App;
