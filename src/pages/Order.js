@@ -41,6 +41,8 @@ const Order = () => {
 				<div className="w-full flex flex-col justify-evenly text-4xl p-2">
 					<button onClick={clearCart} className="bg-red-800 rounded-xl p-2 hover:bg-red-500">CLEAR</button>
 					<button onClick={orderCart} className="bg-green-600 rounded-xl p-2 hover:bg-green-400">ORDER</button>
+					<hr className="w-full border-white rounded-lg border-4 py-10" />
+					<span>(Mock page. <br/>No transactions are done.)</span>
 				</div>
 			</div>
 		</div>

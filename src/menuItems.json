@@ -2,31 +2,31 @@
 	"MAIN": [
 		{
 			"Title": "Dish1",
-			"Desc": "A beautiful something something no one cares",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Main/Dish1.jpg",
 			"Price": "13.42"
 		},
 		{
 			"Title": "Dish2",
-			"Desc": "A beautiful huh something no one cares",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Main/Dish2.jpg",
 			"Price": "199.99"
 		},
 		{
 			"Title": "Dish3",
-			"Desc": "A beautiful something something no one cares",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Main/Dish3.jpg",
 			"Price": "11.00"
 		},
 		{
 			"Title": "Dish4",
-			"Desc": "A beautiful something something no one cares",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Main/Dish4.jpg",
 			"Price": "13.99"
 		},
 		{
 			"Title": "Dish5",
-			"Desc": "A beautiful something something no one cares",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Main/Dish5.jpg",
 			"Price": "14.41"
 		}
@@ -34,95 +34,95 @@
 	"SIDES": [
 		{
 			"Title": "Cake",
-			"Desc": "A beautiful slice of cake the size of an ant.",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sides/Dessert.jpg",
 			"Price": "49.99"
 		},
 		{
 			"Title": "Fries",
-			"Desc": "Russet potato fries made from a delicious potato that was farmed from the best of the best potato farms; potatoes potatoes potatoes.",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sides/Fries.jpg",
 			"Price": "9.99"
 		},
 		{
 			"Title": "Extra Fries",
-			"Desc": "The best of the best potato farms; potatoes potatoes potatoes. Enough to make an Irishmen mad.",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sides/Fries1.jpg",
 			"Price": "2.99"
 		},
 		{
 			"Title": "Sweet Fries",
-			"Desc": "Sweet potato fries made from a delicious potato that was farmed from the best of the best potato farms; potatoes potatoes potatoes.",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sides/Fries2.jpg",
 			"Price": "14.99"
 		}
 	],
 	"DRINKS": [
 		{
-			"Title": "Airbender",
-			"Desc": "Water is floating like it is zero gravity. You slurp it up from the air like a fish.",
-			"Image": "Menu/Drinks/Airbender.jpg",
+			"Title": "Drink 1",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
+			"Image": "Menu/Drinks/Drink 1.jpg",
 			"Price": "1550.00"
 		},
 		{
-			"Title": "Bat Extract",
-			"Desc": "Straight from the battest of bat. (Dont tell batman)",
-			"Image": "Menu/Drinks/Bat Extract.jpg",
+			"Title": "Drink 2",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
+			"Image": "Menu/Drinks/Drink 2.jpg",
 			"Price": "11.50"
 		},
 		{
 			"Title": "Galactic Melon",
-			"Desc": "Sweet potato fries made from a delicious potato that was farmed from the best of the best potato farms; potatoes potatoes potatoes.",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Drinks/Galactic Melon.jpg",
 			"Price": "14.99"
 		},
 		{
-			"Title": "Watered Cola",
-			"Desc": "Sweet potato fries made from a delicious potato that was farmed from the best of the best potato farms; potatoes potatoes potatoes.",
-			"Image": "Menu/Drinks/Watered Cola.jpg",
+			"Title": "Drink 3",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
+			"Image": "Menu/Drinks/Drink 3.jpg",
 			"Price": "14.99"
 		},
 		{
-			"Title": "Stain On Rocks",
-			"Desc": "Sweet potato fries made from a delicious potato that was farmed from the best of the best potato farms; potatoes potatoes potatoes.",
-			"Image": "Menu/Drinks/Stain On Rocks.jpg",
+			"Title": "Drink 4",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
+			"Image": "Menu/Drinks/Drink 4.jpg",
 			"Price": "14.99"
 		},
 		{
-			"Title": "Sausage On Blocks",
-			"Desc": "Sweet potato fries made from a delicious potato that was farmed from the best of the best potato farms; potatoes potatoes potatoes.",
-			"Image": "Menu/Drinks/Sausage On Blocks.jpg",
+			"Title": "Drink 5",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
+			"Image": "Menu/Drinks/Drink 5.jpg",
 			"Price": "14.99"
 		},
 		{
-			"Title": "Lemonaids",
-			"Desc": "Sweet potato fries made from a delicious potato that was farmed from the best of the best potato farms; potatoes potatoes potatoes.",
-			"Image": "Menu/Drinks/Lemonaids.jpg",
+			"Title": "Lemonade",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
+			"Image": "Menu/Drinks/Lemonade.jpg",
 			"Price": "14.99"
 		}
 	],
 	"SAUCES": [
 		{
-			"Title": "Mhm... Sauce",
-			"Desc": "The kinda sauce you get when your little brother is telling you about the ghost that came in and broke your phone. This is also right after he asked if you got any games on your phone, and you saying no. Followed by you going to the bathroom for a quick piss then coming back to this very situation. And now you gotta pretend like you dont know who actually did it for a few seconds till you yell at him for it.",
+			"Title": "Sauce",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sauces/Sauce1.jpg",
 			"Price": "99.99"
 		},
 		{
-			"Title": "Aha! Sauce",
-			"Desc": "Best idea that ever idea-est.",
+			"Title": "Sauce 2",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sauces/Sauce2.jpg",
 			"Price": "513.91"
 		},
 		{
-			"Title": "Ewww! Sauce",
-			"Desc": "Very ewwy n gross. DISGUSTANGG",
+			"Title": "Sauce 3",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sauces/Sauce3.jpg",
 			"Price": "412.99"
 		},
 		{
-			"Title": "DAYUM! Sauce",
-			"Desc": "Very surprising!",
+			"Title": "Sauce 4",
+			"Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor purus non enim praesent elementum facilisis leo. Dolor purus non enim praesent elementum. Neque sodales ut etiam sit. Sem integer vitae justo eget.",
 			"Image": "Menu/Sauces/Sauce4.jpg",
 			"Price": "5.99"
 		}
